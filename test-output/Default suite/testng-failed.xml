@@ -7,6 +7,9 @@
         <methods>
           <include name="test_functionBagi"/>
           <include name="init"/>
+          <include name="test_functionKali"/>
+          <include name="test_functionKurang"/>
+          <include name="test_functionTambah"/>
         </methods>
       </class> <!-- com.nexsoft.appium.TestCalculator -->
     </classes>

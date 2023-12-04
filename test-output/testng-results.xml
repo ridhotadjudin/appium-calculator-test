@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-22T00:26:57 ICT" name="Default suite" finished-at="2022-06-22T00:27:29 ICT" duration-ms="31741">
+  <suite started-at="2022-07-09T18:26:56 ICT" name="Default suite" finished-at="2022-07-09T18:27:28 ICT" duration-ms="32430">
     <groups>
     </groups>
-    <test started-at="2022-06-22T00:26:57 ICT" name="Default test" finished-at="2022-06-22T00:27:29 ICT" duration-ms="31741">
+    <test started-at="2022-07-09T18:26:56 ICT" name="Default test" finished-at="2022-07-09T18:27:28 ICT" duration-ms="32430">
       <class name="com.nexsoft.appium.TestCalculator">
-        <test-method is-config="true" signature="init()[pri:0, instance:com.nexsoft.appium.TestCalculator@4d1c005e]" started-at="2022-06-22T00:26:58 ICT" name="init" finished-at="2022-06-22T00:27:14 ICT" duration-ms="16565" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.nexsoft.appium.TestCalculator@72035809]" started-at="2022-07-09T18:26:56 ICT" name="init" finished-at="2022-07-09T18:27:13 ICT" duration-ms="17673" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="test_functionTambah()[pri:1, instance:com.nexsoft.appium.TestCalculator@4d1c005e]" started-at="2022-06-22T00:27:14 ICT" name="test_functionTambah" finished-at="2022-06-22T00:27:18 ICT" duration-ms="3940" status="PASS">
+        <test-method signature="test_functionTambah()[pri:1, instance:com.nexsoft.appium.TestCalculator@72035809]" started-at="2022-07-09T18:27:13 ICT" name="test_functionTambah" finished-at="2022-07-09T18:27:17 ICT" duration-ms="3897" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_functionTambah -->
-        <test-method signature="test_functionKurang()[pri:2, instance:com.nexsoft.appium.TestCalculator@4d1c005e]" started-at="2022-06-22T00:27:18 ICT" name="test_functionKurang" finished-at="2022-06-22T00:27:22 ICT" duration-ms="3582" status="PASS">
+        <test-method signature="test_functionKurang()[pri:2, instance:com.nexsoft.appium.TestCalculator@72035809]" started-at="2022-07-09T18:27:17 ICT" name="test_functionKurang" finished-at="2022-07-09T18:27:21 ICT" duration-ms="3498" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_functionKurang -->
-        <test-method signature="test_functionKali()[pri:3, instance:com.nexsoft.appium.TestCalculator@4d1c005e]" started-at="2022-06-22T00:27:22 ICT" name="test_functionKali" finished-at="2022-06-22T00:27:25 ICT" duration-ms="3513" status="PASS">
+        <test-method signature="test_functionKali()[pri:3, instance:com.nexsoft.appium.TestCalculator@72035809]" started-at="2022-07-09T18:27:21 ICT" name="test_functionKali" finished-at="2022-07-09T18:27:24 ICT" duration-ms="3305" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_functionKali -->
-        <test-method signature="test_functionBagi()[pri:4, instance:com.nexsoft.appium.TestCalculator@4d1c005e]" started-at="2022-06-22T00:27:25 ICT" name="test_functionBagi" finished-at="2022-06-22T00:27:29 ICT" duration-ms="4000" status="PASS">
+        <test-method signature="test_functionBagi()[pri:4, instance:com.nexsoft.appium.TestCalculator@72035809]" started-at="2022-07-09T18:27:24 ICT" name="test_functionBagi" finished-at="2022-07-09T18:27:28 ICT" duration-ms="3939" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_functionBagi -->
